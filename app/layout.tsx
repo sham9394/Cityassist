@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css'
 import React from 'react'
 export const metadata = { title: 'CityAssist', description: 'Citizen Assistant PWA' }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
